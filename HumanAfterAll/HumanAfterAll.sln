@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanAfterAll", "HumanAfterAll\HumanAfterAll\HumanAfterAll.csproj", "{87BC9135-1F58-4829-AB79-BC4C227883BE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "HumanAfterAllContent", "HumanAfterAll\HumanAfterAllContent\HumanAfterAllContent.contentproj", "{3F525EBF-DC14-4CD9-ADF2-607B98FD0267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87BC9135-1F58-4829-AB79-BC4C227883BE}.Debug|x86.ActiveCfg = Debug|x86
+		{87BC9135-1F58-4829-AB79-BC4C227883BE}.Debug|x86.Build.0 = Debug|x86
+		{87BC9135-1F58-4829-AB79-BC4C227883BE}.Release|x86.ActiveCfg = Release|x86
+		{87BC9135-1F58-4829-AB79-BC4C227883BE}.Release|x86.Build.0 = Release|x86
+		{3F525EBF-DC14-4CD9-ADF2-607B98FD0267}.Debug|x86.ActiveCfg = Debug|x86
+		{3F525EBF-DC14-4CD9-ADF2-607B98FD0267}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

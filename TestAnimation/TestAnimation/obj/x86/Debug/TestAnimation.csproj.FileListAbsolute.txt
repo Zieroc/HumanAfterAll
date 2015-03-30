@@ -1,0 +1,21 @@
+C:\Users\Joe\Desktop\HumanAfterAll\TestAnimation\TestAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\HumanAfterAll\TestAnimation\TestAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joe\Desktop\HumanAfterAll\TestAnimation\TestAnimation\bin\x86\Debug\Content\BigbotSprite.xnb
+C:\Users\Joe\Desktop\HumanAfterAll\TestAnimation\TestAnimation\bin\x86\Debug\TestAnimation.exe
+C:\Users\Joe\Desktop\HumanAfterAll\TestAnimation\TestAnimation\bin\x86\Debug\TestAnimation.pdb
+C:\Users\Joe\Desktop\HumanAfterAll\TestAnimation\TestAnimation\obj\x86\Debug\TestAnimation.exe
+C:\Users\Joe\Desktop\HumanAfterAll\TestAnimation\TestAnimation\obj\x86\Debug\TestAnimation.pdb
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\TestAnimation\TestAnimation\bin\x86\Debug\Content\BigbotSprite.xnb
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\TestAnimation\TestAnimation\bin\x86\Debug\TestAnimation.exe
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\TestAnimation\TestAnimation\bin\x86\Debug\TestAnimation.pdb
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\TestAnimation\TestAnimation\obj\x86\Debug\TestAnimation.csprojResolveAssemblyReference.cache
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\TestAnimation\TestAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\TestAnimation\TestAnimation\obj\x86\Debug\TestAnimation.exe
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\TestAnimation\TestAnimation\obj\x86\Debug\TestAnimation.pdb
+C:\Users\Joe\Desktop\HAL\TestAnimation\TestAnimation\bin\x86\Debug\Content\BigbotSprite.xnb
+C:\Users\Joe\Desktop\HAL\TestAnimation\TestAnimation\bin\x86\Debug\TestAnimation.exe
+C:\Users\Joe\Desktop\HAL\TestAnimation\TestAnimation\bin\x86\Debug\TestAnimation.pdb
+C:\Users\Joe\Desktop\HAL\TestAnimation\TestAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\HAL\TestAnimation\TestAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joe\Desktop\HAL\TestAnimation\TestAnimation\obj\x86\Debug\TestAnimation.exe
+C:\Users\Joe\Desktop\HAL\TestAnimation\TestAnimation\obj\x86\Debug\TestAnimation.pdb

@@ -1,0 +1,2 @@
+C:\DevTools\Farseer Physics Engine 3.3.1 Samples XNA\Samples XNA\Samples XNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DevTools\Farseer Physics Engine 3.3.1 Samples XNA\Samples XNA\Samples XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

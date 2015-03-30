@@ -1,0 +1,2 @@
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAllContent\obj\x86\Debug\HumanAfterAllContent.contentprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAllContent\obj\x86\Debug\ResolveAssemblyReference.cache

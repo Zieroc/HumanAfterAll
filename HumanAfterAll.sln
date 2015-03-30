@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanAfterAll", "HumanAfterAll\HumanAfterAll\HumanAfterAll.csproj", "{87BC9135-1F58-4829-AB79-BC4C227883BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanAfterAllContent", "HumanAfterAll\HumanAfterAllContent\HumanAfterAllContent.contentproj", "{3F525EBF-DC14-4CD9-ADF2-607B98FD0267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics XNA", "Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\Farseer Physics XNA.csproj", "{0A850700-1ABB-4288-A391-6726B90EBEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAnimation", "TestAnimation\TestAnimation\TestAnimation.csproj", "{6272745B-4D57-432C-9EA0-B8712591CB73}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TestAnimationContent", "TestAnimation\TestAnimationContent\TestAnimationContent.contentproj", "{CEE3A810-38A2-4FD0-9827-AC90DA891A08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87BC9135-1F58-4829-AB79-BC4C227883BE}.Debug|x86.ActiveCfg = Debug|x86
+		{87BC9135-1F58-4829-AB79-BC4C227883BE}.Debug|x86.Build.0 = Debug|x86
+		{87BC9135-1F58-4829-AB79-BC4C227883BE}.Release|x86.ActiveCfg = Release|x86
+		{87BC9135-1F58-4829-AB79-BC4C227883BE}.Release|x86.Build.0 = Release|x86
+		{3F525EBF-DC14-4CD9-ADF2-607B98FD0267}.Debug|x86.ActiveCfg = Debug|x86
+		{3F525EBF-DC14-4CD9-ADF2-607B98FD0267}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.ActiveCfg = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.Build.0 = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.Build.0 = Release|x86
+		{6272745B-4D57-432C-9EA0-B8712591CB73}.Debug|x86.ActiveCfg = Debug|x86
+		{6272745B-4D57-432C-9EA0-B8712591CB73}.Debug|x86.Build.0 = Debug|x86
+		{6272745B-4D57-432C-9EA0-B8712591CB73}.Release|x86.ActiveCfg = Release|x86
+		{6272745B-4D57-432C-9EA0-B8712591CB73}.Release|x86.Build.0 = Release|x86
+		{CEE3A810-38A2-4FD0-9827-AC90DA891A08}.Debug|x86.ActiveCfg = Debug|x86
+		{CEE3A810-38A2-4FD0-9827-AC90DA891A08}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

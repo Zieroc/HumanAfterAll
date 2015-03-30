@@ -1,0 +1,3 @@
+C:\Users\Joe\Desktop\HumanAfterAll\TestAnimation\TestAnimationContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\TestAnimation\TestAnimationContent\obj\x86\Debug\TestAnimationContent.contentprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\HAL\TestAnimation\TestAnimationContent\obj\x86\Debug\ResolveAssemblyReference.cache

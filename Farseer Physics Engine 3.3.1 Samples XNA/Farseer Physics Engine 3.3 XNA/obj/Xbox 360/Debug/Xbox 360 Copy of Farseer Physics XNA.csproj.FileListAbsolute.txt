@@ -1,0 +1,5 @@
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\bin\Xbox 360\Debug\FarseerPhysicsXNA.dll
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\bin\Xbox 360\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\obj\Xbox 360\Debug\FarseerPhysicsXNA.dll
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\obj\Xbox 360\Debug\FarseerPhysicsXNA.pdb

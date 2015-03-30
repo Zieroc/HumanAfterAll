@@ -1,0 +1,14 @@
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\obj\x86\Debug\HumanAfterAll.csprojResolveAssemblyReference.cache
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\bin\x86\Debug\HumanAfterAll.exe
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\bin\x86\Debug\HumanAfterAll.pdb
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\obj\x86\Debug\HumanAfterAll.exe
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\obj\x86\Debug\HumanAfterAll.pdb
+C:\Users\Christy's Laptop\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\Joe\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\Joe\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\bin\x86\Debug\HumanAfterAll.exe
+C:\Users\Joe\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\bin\x86\Debug\HumanAfterAll.pdb
+C:\Users\Joe\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joe\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\obj\x86\Debug\HumanAfterAll.exe
+C:\Users\Joe\Desktop\HumanAfterAll\HumanAfterAll\HumanAfterAll\HumanAfterAll\obj\x86\Debug\HumanAfterAll.pdb
